@@ -1,0 +1,6 @@
+:root,html[data-theme="dark-tech"]{color-scheme:dark;--bg:#0b1120;--surface:#141e31;--text:#edf4ff;--muted:#a4b5ce;--accent:#75aaff;--border:#34425c;--primary:#75aaff;--panel:#141e31}
+html[data-theme="luxury"]{color-scheme:dark;--bg:#191513;--surface:#2b2420;--text:#fbf2e4;--muted:#d0bda4;--accent:#d8b776;--border:#65513f;--primary:#d8b776;--panel:#2b2420}
+html[data-theme="cyber"]{color-scheme:dark;--bg:#0b0920;--surface:#1d1939;--text:#f5efff;--muted:#c5b8eb;--accent:#bb95ff;--border:#584a86;--primary:#bb95ff;--panel:#1d1939}
+html[data-theme="minimal"]{color-scheme:light;--bg:#f4f6f8;--surface:#fff;--text:#182234;--muted:#566477;--accent:#195fc3;--border:#c9d3df;--primary:#195fc3;--panel:#fff}
+html[data-theme="enterprise"]{color-scheme:dark;--bg:#101d29;--surface:#203448;--text:#f3f9fc;--muted:#bbd0dc;--accent:#64c6d4;--border:#496477;--primary:#64c6d4;--panel:#203448}
+html[data-theme]{--ink:var(--text);--line:var(--border)}
